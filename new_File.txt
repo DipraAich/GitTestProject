@@ -1,8 +1,9 @@
 Hello world!!!
-Change:-> For implement Login featureand update some code
-Change:-> To test logout
+1 Change:-> For implement Login featureand update some code
+2 Change:-> To test logout
 
-change to fix bug1
-change back to master(3-way merge)
-change for bug2
+3 change to fix bug1
+4 change back to master(3-way merge)
+5 change for bug2
 
+6 Change to check rebase by teammate
