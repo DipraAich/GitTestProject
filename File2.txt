@@ -7,3 +7,8 @@ PUSH check
 Change by teammate on REMOTE Repository ====>
 
 Change ==> To test REBASE (REMOTE Repository)
+
+Change by teammate on REMOTE Repository
+
+Change ==> To test rebase( LOCAL Repository)
+
