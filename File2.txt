@@ -1,1 +1,3 @@
 Code to implement bug3
+
+Code to check stash
